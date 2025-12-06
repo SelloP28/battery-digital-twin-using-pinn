@@ -1,0 +1,10 @@
+pybamm[plotting]
+torch
+pandas
+numpy
+matplotlib
+plotly
+streamlit
+scikit-learn
+tqdm
+scipy
