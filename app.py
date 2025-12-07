@@ -35,3 +35,4 @@ fig = go.Figure(data=go.Heatmap(z=np.linspace(5000,pred[0],100).reshape(10,10),
 fig.update_layout(title="PINN-Predicted Lithium Distribution")
 st.plotly_chart(fig, use_container_width=True)
 st.success("Live from Colab → Streamlit • Built by SelloP28")
+# ...
