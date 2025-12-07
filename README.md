@@ -2,6 +2,7 @@
 
 **Live Demo** → https://battery-digital-twin-using-pinn.streamlit.app/
 **GitHub** → https://github.com/SelloP28/battery-digital-twin-using-pinn
+**Research Paper** → https://docs.google.com/document/d/1X6xZpqRJoDhlB5KsJRPdk-Kfus1bAb6tsDn-2e6upF0/edit?usp=drive_link
 **Built** → Dec 2025  
 **Tags** → PINN • PyBaMM • Digital Twin • Battery Energy Storage • Renewable Energy • Deep Learning
 
