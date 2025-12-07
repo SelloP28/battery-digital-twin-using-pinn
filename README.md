@@ -1,6 +1,6 @@
-# Grok-01: Battery Digital Twin with Physics-Informed Neural Networks (PINNs)
+# Grok-Phakoe-01: Battery Digital Twin with Physics-Informed Neural Networks (PINNs)
 
-**Live Demo** → https://grok-01-battery-twin.streamlit.app  
+**Live Demo** → [https://grok-01-battery-twin.streamlit.app  ](https://battery-digital-twin-using-pinn.streamlit.app/)
 **GitHub** → https://github.com/yourusername/grok-01-battery-digital-twin  
 **Built** → Dec 2025  
 **Tags** → PINN • PyBaMM • Digital Twin • Battery Energy Storage • Renewable Energy • Deep Learning
@@ -9,7 +9,7 @@
 In real Battery Energy Storage Systems (BESS) and EVs we can only measure voltage, current, and surface temperature.  
 What happens inside the cell (lithium concentration gradients, SEI growth, plating risk) remains invisible — yet these invisible states determine safety, performance, and lifetime.
 
-## The Solution – Grok-01
+## The Solution – Grok-Phakoe-01
 A **Physics-Informed Neural Network** that acts as a real-time digital twin:
 - Input: measurable V(t), I(t), T(t)
 - Output: full 1D lithium concentration profiles in negative & positive electrodes + SEI thickness
