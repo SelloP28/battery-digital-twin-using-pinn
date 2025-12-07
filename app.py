@@ -9,8 +9,8 @@ import pybamm
 import pickle
 import os
 
-st.set_page_config(page_title="Grok-01 Battery Digital Twin", layout="wide")
-st.title("Grok-01: Real-Time Battery Digital Twin")
+st.set_page_config(page_title="Grok-Phakoe Battery Digital Twin", layout="wide")
+st.title("Grok-Phakoe 01: Real-Time Battery Digital Twin")
 st.markdown("**Physics-Informed Neural Network • PyBaMM DFN • Dec 2025 • SelloP28**")
 
 # ← Re-define the exact same model class
