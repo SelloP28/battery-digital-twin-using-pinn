@@ -85,4 +85,4 @@ fig = go.Figure(data=go.Heatmap(
 fig.update_layout(title="PINN-Predicted Lithium Distribution")
 st.plotly_chart(fig, use_container_width=True)
 
-st.success("Grok-01 is LIVE • https://github.com/SelloP28/battery-digital-twin-using-pinn")
+st.success("Grok-Phakoe-01 is LIVE • https://github.com/SelloP28/battery-digital-twin-using-pinn")
