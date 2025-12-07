@@ -1,7 +1,7 @@
 # Grok-Phakoe-01: Battery Digital Twin with Physics-Informed Neural Networks (PINNs)
 
 **Live Demo** → https://battery-digital-twin-using-pinn.streamlit.app/
-**GitHub** → https://github.com/yourusername/grok-01-battery-digital-twin  
+**GitHub** → https://github.com/SelloP28/battery-digital-twin-using-pinn
 **Built** → Dec 2025  
 **Tags** → PINN • PyBaMM • Digital Twin • Battery Energy Storage • Renewable Energy • Deep Learning
 
