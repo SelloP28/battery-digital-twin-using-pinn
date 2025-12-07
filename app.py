@@ -33,7 +33,7 @@ def load_model_and_scalers():
     model.eval()
     
     # Load scalers correctly with pickle (not torch)
-    with open("models/scalers.pth", "rb") as f:
+    with open("models/scalers.pkl", "rb") as f:
         scalers_dict = pickle.load(f)
     
     return model, scalers_dict["scaler_X"], scalers_dict["scaler_y"]
